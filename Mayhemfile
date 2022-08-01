@@ -1,0 +1,4 @@
+project: nmslib
+target: sample-dna-substr
+cmds:
+  - cmd: /sample_dna_substr -i @@ -a 1 --lenSTD 1 -o /dev/null -q 1
